@@ -7,7 +7,7 @@ namespace APIYoutube
     /// A class to work with the Youtube API
     /// Manage and get started documentation for the API found at: https://developers.google.com/youtube/v3
     /// modify the API acess here: https://console.cloud.google.com/welcome?project=youtubeapi-367918
-    /// API key AIzaSyBj6jFO_sOzZeZLafrQoPm5Kb6sbAVjjhs
+    /// API key 
     ///Authorization: Bearer[YOUR_ACCESS_TOKEN]
     ///Accept: application/json
     /// yt channel ID: https://www.youtube.com/channel/UC3OBm9yCUqqVZ-hguyFmxVg
